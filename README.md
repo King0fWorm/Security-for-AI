@@ -62,7 +62,7 @@ A curated list of awesome AI security related frameworks, standards, learning re
 
 ### Frameworks
 * [NIST AI Risk Management Framework](https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF)
-* [ISO/IEC 42001 Artificial Intelligence Management System](https://www.iso.org/standard/81230.html)
+* [ISO/IEC 42001 Artificial Intelligence Management System](0423-ISO-42001-2023.pdf)
 * [ISO/IEC 23894:2023 Information technology — Artificial intelligence — Guidance on risk management](https://www.iso.org/standard/77304.html)
 * [Google Secure AI Framework (SAIF)](https://saif.google/)
 * [ENISA Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
